@@ -26,10 +26,13 @@ main section{
     height: 725px;
 }
 
-body{
-    background-color: #E15A97;
+p{
     font-size: medium;
     font-style: oblique;
+}
+
+body{
+    background-color: #E15A97;
 }
 
 header{
