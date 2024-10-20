@@ -28,10 +28,14 @@ main section{
 
 body{
     background-color: #E15A97;
+    font-size: medium;
+    font-style: oblique;
 }
 
 header{
     background-color: #E15A97;
+    font-size: large;
+    font-style: italic;
 }
 
 nav a:hover{
