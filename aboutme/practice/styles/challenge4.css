@@ -1,16 +1,18 @@
-body{
-    background-color: white;
-}
-
 .white-text{
     color: white;
 }
 
 img{
-    width: 10%;
+    height: 18%;
+    width: 18%;
 }
 
-.centered{
+body{
+    margin-top: 20;
+    margin-bottom: 20;
+    margin-left: 20;
+    margin-right: 20;
+    background-color: #FF69B4;
     text-align: center;
 }
 
@@ -24,6 +26,13 @@ ol{
     font-size: 30px;
 }
 
+p{
+    color: #95190C;
+    font-size: 30px;
+}
+
 li{
-    text-align: center;
+    color: #6e5ae1;
+    font-size: 25px;
+    text-align: left;
 }
