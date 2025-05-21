@@ -73,6 +73,12 @@ footer a{
 
 .msg h2{
     color: #000000;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
 }
 
 .msg p{
@@ -85,6 +91,12 @@ footer a{
 
 h4{
     color: #000000;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
 }
 
 .icon {
