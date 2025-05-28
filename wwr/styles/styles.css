@@ -12,7 +12,7 @@ nav a{
     box-sizing: border-box;
     border: #df08b7;
     border-radius: 3px;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 .button-box{
@@ -33,7 +33,7 @@ main section{
     height: 725px;
     border: #e20a0a;
     border-radius: 1%;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 
@@ -93,7 +93,7 @@ footer a{
     margin-bottom: 10%;
     border: #4bb919;
     border-radius: 3px;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 .msg p{
@@ -125,7 +125,7 @@ h4{
     padding: 1pt;
     border: #000000;
     border-radius: 4px;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 footer p {
