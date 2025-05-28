@@ -7,6 +7,9 @@ nav a{
 #hero-msg h1, #hero-msg h4{
     text-align: center;
     color: #95190C;
+    border: #0b39ce;
+    border-radius: 2px;
+    box-sizing: border-box;
 }
 
 .button-box{
@@ -19,11 +22,15 @@ main section{
 
 #content{
     max-width: 1600px;
-    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 #background{
     height: 725px;
+    border: #e20a0a;
+    border-radius: 1%;
+    box-sizing: border-box;
 }
 
 
@@ -79,10 +86,14 @@ footer a{
     font-variant: normal;
     font-weight: 700;
     line-height: 26.4px;
+    margin-top: 5%;
+    margin-bottom: 10%;
 }
 
 .msg p{
     color: #000000;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
 .home-title{
@@ -97,10 +108,15 @@ h4{
     font-variant: normal;
     font-weight: 700;
     line-height: 26.4px;
+    margin-left: 5px;
+    margin-right: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
 }
 
 .icon {
     width: 80px;
+    padding: 5%;
 }
 
 footer p {
@@ -113,5 +129,8 @@ footer p a:hover {
 
 c centerimage{
     max-width: 1600px;
-    margin: 0 auto;
+    margin-left: 2px;
+    border: #000000;
+    border-radius: 3px;
+    box-sizing: border-box;
 }
