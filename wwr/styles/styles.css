@@ -117,6 +117,9 @@ h4{
 .icon {
     width: 80px;
     padding: 1pt;
+    border: #000000;
+    border-radius: 4px;
+    box-sizing: border-box;
 }
 
 footer p {
