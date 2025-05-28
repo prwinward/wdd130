@@ -10,6 +10,9 @@ nav a{
     border: #0b39ce;
     border-radius: 2px;
     box-sizing: border-box;
+    border: #df08b7;
+    border-radius: 3px;
+    box-sizing: border-box;
 }
 
 .button-box{
@@ -88,6 +91,9 @@ footer a{
     line-height: 26.4px;
     margin-top: 5%;
     margin-bottom: 10%;
+    border: #4bb919;
+    border-radius: 3px;
+    box-sizing: border-box;
 }
 
 .msg p{
@@ -133,7 +139,4 @@ footer p a:hover {
 c centerimage{
     max-width: 1600px;
     margin-left: 2px;
-    border: #000000;
-    border-radius: 3px;
-    box-sizing: border-box;
 }
